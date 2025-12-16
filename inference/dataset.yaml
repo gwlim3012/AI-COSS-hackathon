@@ -1,0 +1,6 @@
+# dataset.yaml
+train: ./train_split/images
+val: ./val_split/images
+test: ./test/images
+nc: 20
+names: [cls0, cls1, cls2, cls3, cls4, cls5, cls6, cls7, cls8, cls9, cls10, cls11, cls12, cls13, cls14, cls15, cls16, cls17, cls18, cls19]

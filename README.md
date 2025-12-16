@@ -9,9 +9,9 @@
 🏆 대상 (1위)
 
 ## Team
-| 임규원 <br> <sub>서울과학기술대학교</sub> | 김태규 <sub>서울과학기술대학교</sub> | 박문선 <sub>서울과학기술대학교</sub> |
+| 임규원 <br> <sub>서울과학기술대학교</sub> | 김태규 <br> <sub>서울과학기술대학교</sub> | 박문선 <br> <sub>서울과학기술대학교</sub> |
 |:---:|:---:|:---:|
-| <img src="https://github.com/gwlim3012.png" width="100"/> | <img src="https://github.com/Rkaksdksrud.png" width="100"/> | <img src="https://github.com/moonsun3d.png" width="100"/> |
+| <img src="https://github.com/gwlim3012.png" width="150"/> | <img src="https://github.com/Rkaksdksrud.png" width="150"/> | <img src="https://github.com/moonsun3d.png" width="150"/> |
 | [@gwlim3012](https://github.com/gwlim3012) | [@Rkaksdksrud](https://github.com/Rkaksdksrud) | [@moonsun3d](https://github.com/moonsun3d) |
 
 

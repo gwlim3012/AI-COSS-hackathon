@@ -12,7 +12,7 @@
 | 임규원 | 김태규 | 박문선 |
 |:---:|:---:|:---:|
 | <img src="https://github.com/gwlim3012.png" width="100"/> | <img src="https://github.com/Rkaksdksrud.png" width="100"/> | <img src="https://github.com/moonsun3d.png" width="100"/> |
-| [@gwlim3012](https://github.com/gwlim3012) | [@Rkaksdksrud](https://github.com/Rkaksdksrud) | [@moonsun3d](https://github.com/Rkaksdksrud |
+| [@gwlim3012](https://github.com/gwlim3012) | [@Rkaksdksrud](https://github.com/Rkaksdksrud) | [@moonsun3d](https://github.com/moonsun3d |
 
 
 

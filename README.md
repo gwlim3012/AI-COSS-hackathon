@@ -15,5 +15,5 @@
 | [@gwlim3012](https://github.com/gwlim3012) | [@Rkaksdksrud](https://github.com/Rkaksdksrud) | [@moonsun3d](https://github.com/moonsun3d) |
 
 ## Presentation
-(AI-COSS-hackathon/2025 AI COSS 해커톤 4조 발표자료.pdf)
+[발표자료 PDF](2025%20AI%20COSS%20해커톤%204조%20발표자료.pdf)
 

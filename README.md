@@ -14,5 +14,6 @@
 | <img src="https://github.com/gwlim3012.png" width="150"/> | <img src="https://github.com/Rkaksdksrud.png" width="150"/> | <img src="https://github.com/moonsun3d.png" width="150"/> |
 | [@gwlim3012](https://github.com/gwlim3012) | [@Rkaksdksrud](https://github.com/Rkaksdksrud) | [@moonsun3d](https://github.com/moonsun3d) |
 
-
+## Presentation
+(AI-COSS-hackathon/2025 AI COSS 해커톤 4조 발표자료.pdf)
 

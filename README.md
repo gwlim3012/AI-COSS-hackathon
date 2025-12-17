@@ -3,7 +3,10 @@
 ## Competition
 주제: 데이터 도메인 일반화 (Domain Generalization)
 - 위성 촬영 기반의 객체 탐지(Object Detection) 데이터셋을 활용하여, 학습 데이터(Train)와 테스트 데이터(Test) 간의 도메인 차이(Domain Shift)를 극복하는 데이터 처리 기법을 Ablation Study
-- 위치 특정(Localization) 실패 문제를 해결하기 위해 데이터의 기하학적·색상적 특성이 모델 일반화에 미치는 영향을 분석했다.
+- 접근 방법: 위치 특정(Localization) 실패 문제를 해결하기 위해 데이터의 기하학적·색상적 특성이 모델 일반화에 미치는 영향을 분석
+
+## Duration
+2025/11/03 ~ 2025/11/20
 
 ## Model
 - YOLOv8n: 도메인 일반화 실험을 위한 베이스라인 모델로 사용
